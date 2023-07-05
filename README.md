@@ -1,2 +1,2 @@
-# free-disk-space
-Scripts for identifying files and directories that take up a lot of space, and then delete them
+# Scripts and Settings
+This repo is for useful scripts that you may have, or config files, etc.
